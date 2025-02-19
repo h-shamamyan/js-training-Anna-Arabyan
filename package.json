@@ -1,0 +1,20 @@
+{
+  "name": "js-training-anna-arabyan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaArabyan/js-training-Anna-Arabyan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaArabyan/js-training-Anna-Arabyan/issues"
+  },
+  "homepage": "https://github.com/AnnaArabyan/js-training-Anna-Arabyan#readme",
+  "description": ""
+}
