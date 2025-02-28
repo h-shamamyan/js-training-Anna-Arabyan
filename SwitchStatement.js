@@ -70,7 +70,7 @@
 // Write your code here:
 
 // const {userInput} = require("./UserInput")
-// const myInput = userInput("Please, enter a month name")
+// const myInput = userInput("Please, enter a month name ")
 // console.log(myInput);
 
 // switch (myInput) {
